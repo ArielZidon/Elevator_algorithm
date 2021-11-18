@@ -29,7 +29,10 @@ Each elevator has a calculation of the time it will take it to reach the next ca
 # How to run the program:
 - Download all project files
 - Select a building in MyAlgo in the cmd function on line 50 to run the Calls file you want on it.
-- ![select building and call](https://user-images.githubusercontent.com/93542763/142505979-1b5c0a69-577b-4331-93e5-0a26d37c7e89.png)
+- Then a line below the building selection must select some call so in line 51 we will select the call we want.
+for examle:
+![select building and call](https://user-images.githubusercontent.com/93542763/142505979-1b5c0a69-577b-4331-93e5-0a26d37c7e89.png)
+
 
 
 
