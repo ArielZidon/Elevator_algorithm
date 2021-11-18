@@ -1,0 +1,35 @@
+@startuml
+class MYBuilding{
+    int max floor
+    int min floor
+    Elevators
+     }
+class MyElevator{
+        id
+        speed
+        minFloor
+        maxFloor
+        closeTime
+        openTime
+        startTime
+        stopTime
+        state
+        updo
+        callListup[]
+        callListdown[]
+}
+class MyCalls{
+        name
+        time
+        src
+        dest
+        state
+        elevator
+}
+
+MYBuilding ---> MyElevator
+MYBuilding ---> MyAlgo
+MyElevator ---> MyAlgo
+MyCalls    ---> MyAlgo
+
+@enduml
