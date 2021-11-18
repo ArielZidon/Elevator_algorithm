@@ -1,7 +1,9 @@
 # Elevator_algorithm 
 (The way to run the program is below an explanation of the algorithm)
 EX1 – Elevator offline algorithem
-Ariel Zidon: 314789264
+
+creat by:
+Ariel Zidon: 314789264 \n
 Afik damri: 208494989
 
 Article 1:
