@@ -26,6 +26,9 @@ We will try to keep an elevator that goes up with appropriate readings going up 
 Each elevator has a calculation of the time it will take it to reach the next call based on the data it has (speed, opening and closing doors ..)
 
 
+![uml](https://user-images.githubusercontent.com/93542763/142508913-7546d82d-374b-4420-853a-57edfcf5d2bb.png)
+
+
 # How to run the program:
 - Download all project files
 - Select a building in MyAlgo in the cmd function on line 50 to run the Calls file you want on it.
