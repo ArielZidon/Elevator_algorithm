@@ -47,6 +47,10 @@ For example:
 
 ![terminal](https://user-images.githubusercontent.com/93542763/142507477-93e99f95-7a35-45d9-a754-0fa1abdb383c.png)
 
+-After running the line in the terminal we can see the average time a person waited for an elevator and the number of people who did not receive service.
+
+Enjoy!
+
 
 
 
