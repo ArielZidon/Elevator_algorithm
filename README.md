@@ -2,7 +2,7 @@
 (The way to run the program is below an explanation of the algorithm)
 EX1 – Elevator offline algorithem
 
-A collection of sources that helped understand the problem and build the algorithm:
+* A collection of sources that helped understand the problem and build the algorithm: *
 
 Article 1:
 How do smart elevators work?
