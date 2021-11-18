@@ -52,7 +52,7 @@ For example:
 
 -After running the line in the terminal we can see the average time a person waited for an elevator and the number of people who did not receive service.
 
-Enjoy!
+Enjoy
 
 
 
